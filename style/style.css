@@ -1,8 +1,23 @@
+body{
+    background-image: url('/assets/768507.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
 #page-title{
     color: wheat;
     font-size: larger;
     font-style:  italic;
 }
 #header{
-    background-color: blueviolet
+    background-color: #2b6777;
+    margin-bottom: 10px;
+    padding: 8px;
+
+}
+#personal-info{
+    font-size: larger;
+    font-style: italic;
+    color: #fae5df
 }
