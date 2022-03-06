@@ -86,3 +86,61 @@ body {
 .quote-author {
   float: right;
 }
+
+.avatar {
+  width: 280px;
+  height: 300px;
+  background-image: url('/assets/098345709abacb1aa3986125ff466d1b.png');
+  border-radius: 50%;
+  background-size: cover;
+}
+
+#contact-info-row {
+  background-color: #c8e8d4;
+  height: 700px;
+}
+
+#avatar-column {
+  border-right: 1px solid #2b6777;
+}
+
+.contact-page-tile {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  color: #2b6777;
+  margin-top: 20px;
+  margin-left: 40px;
+  float: center;
+}
+
+#contact-info-content {
+  padding: 30px;
+}
+
+.info-headline {
+  color: #2b6777;
+  padding-top: 16px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.avatar-experience {
+  margin: 30px 15px;
+  width: 240px;
+  height: 270px;
+  background-image: url('/assets/troymare_unicorn_by_yugi_master-dc4jqrs.png');
+  border-radius: 50%;
+  background-size: cover;
+}
+
+.avatar-project {
+  margin: 30px 15px;
+  width: 240px;
+  height: 270px;
+  background-image: url('/assets/GracefulCharity-OW.png');
+  border-radius: 50%;
+  background-size: cover;
+}
+
+#video-row {
+  padding: 16px;
+}
